@@ -1,4 +1,4 @@
-# Deep Q-Network (DQN) Implementation
+# Deep Q-Network (DQN) Implementation 
 
 This repository contains an implementation of a Deep Q-Network (DQN) for training an agent to play Atari's Ms. Pac-Man. The implementation utilizes PyTorch and Gymnasium to build and train the model.
 
